@@ -1,4 +1,4 @@
-Firstly, we began by adding a piece of terrain that is 50 x 50 in size. 
+We began by adding a piece of terrain that is 50 x 50 in size. 
 
 ![image](https://github.com/user-attachments/assets/815c9f9d-eaf6-4e86-8a88-333ccf792e2a)
 
